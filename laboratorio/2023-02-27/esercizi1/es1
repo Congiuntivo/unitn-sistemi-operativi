@@ -1,0 +1,2 @@
+if [[ -e /tmp/ ]] then echo T; else echo F; fi
+[ -e /tmp/operazione ] && echo T || echo F

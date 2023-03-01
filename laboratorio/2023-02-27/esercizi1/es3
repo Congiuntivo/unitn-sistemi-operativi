@@ -1,0 +1,1 @@
+[ -f /tmp/operazione ] && echo 1 || echo ?

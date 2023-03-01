@@ -1,0 +1,4 @@
+err.txt
+out.txt
+sistemi-operativi
+tmp

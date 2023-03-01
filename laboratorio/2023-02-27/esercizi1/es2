@@ -1,0 +1,2 @@
+if [[ -e /tmp/ ]] then if [[ -f /tmp/ ]] then echo file; else echo cartella; fi; else  echo ?; fi
+[ -e /tmp/operazione ] && ( [ -d /tmp/operazione ] && echo cartella || echo file ) || echo ?
