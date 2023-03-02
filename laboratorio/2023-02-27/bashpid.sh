@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo 3798
-echo 9600
+echo $BASHPID #the id of the current bash process
+echo $( echo $BASHPID)
